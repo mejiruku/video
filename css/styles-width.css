@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+/* 追加 */
+
+
+/* 画面幅の50%の幅で画像を表示 */
+
+.vw-20 {
+    width: 20vw;
+}
+
+.vw-80 {
+    width: 80vw;
+}
+
+.vw-95 {
+    width: 95vw;
+}
+
+.vw-98 {
+    width: 98vw;
+}
+
+.border-white {
+    background-color: #f5f5f5;
+}
